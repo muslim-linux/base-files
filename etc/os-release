@@ -1,9 +1,6 @@
-PRETTY_NAME="Debjaro #OSNAME# 31 (elizabeth)"
-NAME="Debian #OSNAME#"
-VERSION_ID="31"
-VERSION="31 (elizabeth)"
-VERSION_CODENAME=elizabeth
-ID=debjaro
-HOME_URL="https://github.com/debjaro/"
-SUPPORT_URL="https://github.com/debjaro"
-BUG_REPORT_URL="https://github.com/debjaro"
+PRETTY_NAME="Muslim Linux"
+NAME="Muslim Linux"
+VERSION_ID="1.0"
+VERSION="1.0 (Nur)"
+VERSION_CODENAME=muslim
+ID=muslim
